@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ConsoleForm.pas"/>
+    <File Path="ConsoleForm.dfm"/>
+    <File Path="FormatGeneratorForm.pas"/>
+    <File Path="FormatGeneratorForm.dfm"/>
+    <File Path="HelpForm.pas"/>
+    <File Path="HelpForm.dfm"/>
+    <File Path="MainForm.pas"/>
+    <File Path="MainForm.dfm"/>
+    <File Path="MSOListForm.pas"/>
+    <File Path="MSOListForm.dfm"/>
+    <File Path="QueueForm.pas"/>
+    <File Path="QueueForm.dfm"/>
+    <File Path="QuickGeneratorForm.pas"/>
+    <File Path="QuickGeneratorForm.dfm"/>
+    <File Path="SettingsForm.pas"/>
+    <File Path="SettingsForm.dfm"/>
+    <File Path="StatusUpdaterThread.pas"/>
+    <File Path="Unit3.pas"/>
+    <File Path="LogForm.pas"/>
+    <File Path="LogForm.dfm"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.056,C:\Users\alvinek\Dysk Google\Delphi\YTDl Gui fixed\Unit1.pas=C:\Users\alvinek\Dysk Google\Delphi\YTDl Gui fixed\LogForm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.539,=C:\Users\alvinek\Dysk Google\Delphi\YTDl Gui fixed\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.056,C:\Users\alvinek\Dysk Google\Delphi\YTDl Gui fixed\Unit1.dfm=C:\Users\alvinek\Dysk Google\Delphi\YTDl Gui fixed\LogForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
